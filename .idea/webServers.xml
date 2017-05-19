@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2513f919-e6fd-40e9-9f02-e4633840c403" name="alexa-q" url="http://118.89.188.169">
+        <fileTransfer host="118.89.188.169" port="22" rootFolder="/root/code/alexa-py" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
